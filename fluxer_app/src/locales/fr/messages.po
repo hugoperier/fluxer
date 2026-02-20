@@ -10201,7 +10201,7 @@ msgstr "formatage"
 #: src/components/channel/MessageActionMenu.tsx:224
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:119
 msgid "Forward"
-msgstr "Avancer"
+msgstr "Transférer"
 
 #: src/components/media_player/components/AudioPlayer.tsx:277
 #: src/components/media_player/components/AudioPlayer.tsx:283
